@@ -1,1 +1,2 @@
 Hola usuario
+Este archivo es una prueba para practicar el uso de un repositorio git, este es el segundo commit.
